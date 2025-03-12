@@ -1,0 +1,1 @@
+Avg Word in Query in sentences: 14.193181818181818

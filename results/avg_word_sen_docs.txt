@@ -1,0 +1,1 @@
+Avg Word in Documents in sentences: 13.405215646940823

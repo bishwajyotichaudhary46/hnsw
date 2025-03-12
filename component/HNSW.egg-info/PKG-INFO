@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: HNSW
+Version: 0.0.0
+Summary: Vector Database
+Home-page: https://github.com/bishwajyotichaudhary46/HNSW
+Author: bishwajyotichaudhary46
+Author-email: bishwajyotichaudhary46@gmail.com
+Project-URL: Bug Tracker, https://github.com/bishwajyotichaudhary46/HNSW/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+Storing Embedding

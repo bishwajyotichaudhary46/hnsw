@@ -1,0 +1,12 @@
+ipykernel
+pandas
+lxml
+nltk
+matplotlib
+wordcloud
+transformers
+torch --index-url https://download.pytorch.org/whl/cu118
+scikit-learn
+hnswlib
+
+-e .
