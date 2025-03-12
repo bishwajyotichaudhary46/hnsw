@@ -5,9 +5,9 @@ import setuptools
 
 __version__ = "0.0.0"
 
-REPO_NAME = "HNSW"
+REPO_NAME = "hnsw"
 AUTHOR_USER_NAME = "bishwajyotichaudhary46"
-SRC_REPO = "HNSW"
+SRC_REPO = "hnsw"
 AUTHOR_EMAIL = "bishwajyotichaudhary46@gmail.com"
 
 
